@@ -16,7 +16,7 @@
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados no KampferDS:
 
 
 
