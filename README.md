@@ -9,10 +9,14 @@
 
 -- Bio --
 
-**Links:**
-* [Blog/Site](http://kampferds.mozello.com/)
-* [LinkedIn](https://www.linkedin.com/in/thallitonsilva)
-* [Medium](https://medium.com/@thallitonsilva)
+**Me siga nas redes sociais:**
+
+* [Blog/Site](http://kampferds.mozello.com/) **KampferDS**
+* [Medium](https://medium.com/@thallitonsilva) **@thallitonsilva**
+* [LinkedIn](https://www.linkedin.com/in/thallitonsilva) **thallitonsilva**
+* [Instagram](https://www.instagram.com/thaaaaal/) **@thaaaaal**
+* [Github](https://github.com/ThallitonSilva) **ThallitonSilva**
+
 
 
 ## Projetos:
